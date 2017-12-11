@@ -1,0 +1,54 @@
+k=90
+k
+730-282
+60/220
+249668+730-250400
+249668+730
+install.packages('car')
+getwd()
+.libPaths()
+lib
+libPaths()
+.packages(all.available=T)
+21/327
+327*0.71-327
+install.packages('fpc')
+install.packages('ggplot2')
+install.packages('TSA')
+install.packages('urca')
+install.packages('multcomp')
+install.packages('gplots')
+install.packages('e1071')
+install.packages('mvpart')
+install.packages('rpart.plot')
+install.packages('showtext')
+install.packages('RWeka')
+install.packages('arules')
+?f
+??f
+?pf
+qf(0.975,1,2)
+qf(0.95,1,2)
+719-362
+install.packages('forecast')
+install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
+devtools::install_github('IRkernel/IRkernel')
+IRkernel::installspec()
+x=[5,7,9]
+install.packages("rootSolve")
+install.packages("rknn")
+install.packages('prophet')
+plot(1:10,main="斤斤计较 ")
+par(family='STKaiti')
+plot(1:10,main="斤斤计较 ")
+install.packages("fBasics")
+install.packages("pwr")
+setwd("/Users/apple/code_tool/KDD_run/KDD_r/volume")#
+#
+filename="volume(table 6)_training"#
+data2=read.csv(paste0('/Users/apple/code_tool/KDD_run/KDD_python/',filename,'.csv'))  #-------
+names(data2)
+d0=data2[which(data2$vehicle_model==0),]
+nrow(d0)
+load("/Users/apple/code_tool/KDD_run/KDD_r/volume/data_weekdays_X.rda")
+ls()
